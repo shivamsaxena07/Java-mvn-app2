@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shivam-mvn-container
-        image: shivamsaxena91/shivam-docker-demo
+        image: shivamsaxena91/shivam-docker-demo:shivam-docker-demo
         ports:
         - containerPort: 8080
 ---
