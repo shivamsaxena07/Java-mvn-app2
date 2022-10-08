@@ -5,7 +5,7 @@ metadata:
   labels:
     app: shivam-mvn-app
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       app: shivam-mvn-app
